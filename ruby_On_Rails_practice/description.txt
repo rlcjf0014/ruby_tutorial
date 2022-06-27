@@ -1,8 +1,0 @@
-# Introduction
-
-https://guides.rubyonrails.org/getting_started.html#what-is-rails-questionmark
-
-Based on the official website, I will try to go through different steps to teach myself a new framework for ruby.
-**Ruby on Rails**!
-
-Excited to start!
